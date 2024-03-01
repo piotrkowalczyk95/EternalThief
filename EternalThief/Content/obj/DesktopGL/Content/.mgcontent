@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Font/VCR_OSD_MONO_1.001.spritefont</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Items/DartLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Items/DartRight.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/platformer.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/climb.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/Fall.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/FallLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/Idle.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/IdleLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/JumpLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/JumpRight.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/Throw.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/ThrowLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/WalkLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Player/WalkRight.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Shaders/EnemyStun.fx</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Shaders/UiBlackScreenEffect.fx</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/bg.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/climbing.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/creak.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/hop.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/running.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/running2.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Sounds/yawn.wav</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Tilemaps/decorative_obj.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Tilemaps/mainlevbuild1.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Tilemaps/mainlevbuild2.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Tilemaps/platformer.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/UI/heart.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Undead/AttackLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Undead/AttackRight.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Undead/Idle.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Undead/IdleLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Undead/WalkLeft.png</File>
+    <File>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Undead/WalkRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Player/Climb.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

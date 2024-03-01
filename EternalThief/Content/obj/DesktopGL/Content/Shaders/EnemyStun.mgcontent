@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/Shaders/EnemyStun.fx</SourceFile>
+  <SourceTime>2021-01-19T01:53:05.2023928+01:00</SourceTime>
+  <DestFile>E:/repo/EternalThief/PG2D_zima_2020_21_niestacjonarne_gr_4/EternalThief/EternalThief/Content/bin/DesktopGL/Content/Shaders/EnemyStun.xnb</DestFile>
+  <DestTime>2021-01-19T01:53:08.0844996+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
